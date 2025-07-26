@@ -1,5 +1,6 @@
 # AditiSingh
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=aditisingh2912&label=Profile%20views&color=0e75b6&style=flat)
 <h3 align="center">AI/ML Enthusiast | GenAI | Always Learning 🚀</h3>
 
 <p align="center">
