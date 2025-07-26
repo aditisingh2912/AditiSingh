@@ -1,6 +1,6 @@
 # AditiSingh
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
-<h3 align="center">AI/ML Enthusiast | FastAPI + CLIP Developer | Always Learning 🚀</h3>
+<h3 align="center">AI/ML Enthusiast | GenAI | Always Learning 🚀</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aditisingh2912&theme=darkhub&row=2&column=3" alt="trophies" />
@@ -9,8 +9,7 @@
 ---
 
 - 🔭 Currently building: **Multimodal Fake News Detection** using CLIP, FAISS, FastAPI, and Streamlit  
-- 📚 Learning: **MLOps**, **Transformers**, and **Backend Deployment**  
-- 💡 Fun fact: I love simplifying deep AI concepts and visualizing ML pipelines  
+- 📚 Learning: **GenAI**, **Transformers**, and **Backend Deployment**  
 - 💻 Most work done in **Google Colab**, then pushed to GitHub  
 - 📫 Reach me at: **aditisingh2912@gmail.com**
 
@@ -34,9 +33,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution Graph Snake
-
-<p align="center">
-  <img src="https://github.com/aditisingh2912/aditisingh2912/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
