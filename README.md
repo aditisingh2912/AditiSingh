@@ -11,7 +11,7 @@
 - 🔭 Currently building: **Multimodal Fake News Detection** using CLIP, FAISS, FastAPI, and Streamlit  
 - 📚 Learning: **GenAI**, **Transformers**, and **Backend Deployment**  
 - 💻 Most work done in **Google Colab**, then pushed to GitHub  
-- 📫 Reach me at: **aditisingh2912@gmail.com**
+- 📫 Reach me at: **aditikakri@gmail.com**
 
 ---
 
