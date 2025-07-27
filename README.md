@@ -20,8 +20,8 @@
 ### 🧠 SQL Practice Summary
 ### 📊 SQL Stats Progress
 
-![HackerRank SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/hackerrank.json)
-![LeetCode SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/leetcode.json)
+![HackerRank SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Hackerrank.json)
+![LeetCode SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Leetcode.json)
 
 ### ⚙️ Languages & Tools
 
