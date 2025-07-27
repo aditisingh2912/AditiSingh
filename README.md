@@ -17,8 +17,8 @@
 - 📫 Reach me at: **aditikakri@gmail.com**
 
 ---
-### 🧠 SQL Practice Summary
-### 📊 SQL Stats Progress
+
+### 📊 SQL 
 
 ![HackerRank SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Hackerrank.json)
 ![LeetCode SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Leetcode.json)
