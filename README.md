@@ -19,11 +19,11 @@
 ---
 
 ### 📊 SQL
- #### Hackerank Stats
+ #### Hackerank Badge
 
 [![Hackerrank badges](https://hackerrank-badges.vercel.app/aditisingh_211a1)](https://hackerrank.com/profile/aditisingh_211a1/)
 
-###### Leetcode Stats
+#### Leetcode Badge 
 ![LeetCode SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Leetcode.json)
 
 ### ⚙️ Languages & Tools
