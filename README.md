@@ -20,7 +20,7 @@
 
 ### 📊 SQL 
 
-![HackerRank SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Hackerrank.json)
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/aditisingh_211a1)](https://hackerrank.com/profile/aditisingh_211a1/)
 ![LeetCode SQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aditisingh2912/aditisingh2912/main/SQL_stats/Leetcode.json)
 
 ### ⚙️ Languages & Tools
