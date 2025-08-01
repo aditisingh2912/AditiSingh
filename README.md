@@ -29,7 +29,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-2496ED?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![FAISS]( https://img.shields.io/badge/FAISS-2496ED?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white )
 
 
 ---
